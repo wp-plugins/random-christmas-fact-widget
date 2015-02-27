@@ -40,7 +40,7 @@ class cw_randomtext extends WP_Widget {
   function cw_randomtext()
   {
     $widget_ops = array('classname' => 'cw_randomtext', 'description' => 'Drag this widget to your sidebar to display random Christmas facts.' );
-    $this->WP_Widget('cw_randomtext', 'Random Text', $widget_ops);
+    $this->WP_Widget('cw_randomtext', 'Random Christmas Fact', $widget_ops);
   }
  
   function form($instance)
