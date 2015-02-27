@@ -1,0 +1,45 @@
+function cw_randomtext() {var r_text = new Array ();
+r_text[0] = "In 1907, Oklahoma became the last state to declare Christmas a legal holiday.";
+r_text[1] = "The first faux Christmas tree in the States was manufactured in the 1930s by a company that made toilet brushes... the Addis Brush Company.";
+r_text[2] = "In 1856, President Franklin Pierce decorated the first White House Christmas tree.";
+r_text[3] = "Jingle Bells was originally written for a Thanksgiving concert.";
+r_text[4] = "The traditional Christmas dinner in early England was the head of a pig, made with mustard.";
+r_text[5] = "The first Christmas stamp was issued in Canada in 1898.";
+r_text[6] = "Christmas fell into decline after the American Revolution because it was seen as an English tradition. It didn't become an official holiday in America until 1870.";
+r_text[7] = "Away In A Manger was first published in 1885 in a Lutheran Sunday school book. It wasn't set to music though until two years later.";
+r_text[8] = "The movie 'How the Grinch Stole Christmas' features more than 52,000 Christmas lights, about 8,200 Christmas ornaments, and nearly 2,000 candy canes!";
+r_text[9] = "Pope Julius I declared December 25th as the official date of Christmas in the fourth century.";
+r_text[10] = "If you received all of the gifts listed in 'The Twelve Days of Christmas' song, you would receive 364 presents.";
+r_text[11] = "More than three billion greeting cards are sent annually in the United States alone.";
+r_text[12] = "An average household in America will mail out 28 Christmas cards each year.";
+r_text[13] = "A Christmas wreath hanging on your front door symbolizes a sign of welcome and long life for all who enter.";
+r_text[14] = "In 1647, the English parliament passed a law that made Christmas illegal.";
+r_text[15] = "Hallmark introduced its first Christmas cards in 1915, five years after the founding of the company.";
+r_text[16] = "Christmas trees become popular in the UK in 1841 when Prince Albert erected a tree in Windsor Castle following a German tradition.";
+r_text[17] = "Christmas celebrations were banned in Puritan Boston from 1659 to 1681. Anyone caught participating in any Christmas related activity was fined five shillings.";
+r_text[18] = "The holiday classic 'It's a Wonderful Life' appears on TV more often than any other holiday movie.";
+r_text[19] = "'Rudolph' was actually created by Montgomery Ward in the late 1930's for a holiday promotion";
+r_text[20] = "The poinsettia plant was brought into the United States from Mexico by Joel Poinsett in the early 1800's";
+r_text[21] = "Mistletoe was chosen as Oklahoma's state flower in 1893 and later changed to the state floral emblem.";
+r_text[22] = "In Sweden, a common Christmas decoration is the Julbukk, a small figurine of a goat. It is usually made of straw.";
+r_text[23] = "In the Middle Ages, Christmas celebrations were rowdy and rambunctious, a lot like today's Mardi Gras parties.";
+r_text[24] = "The first eggnog made in the United States was consumed in Captain John Smith's 1607 Jamestown settlement.";
+r_text[25] = "The Salvation Army has been sending Santa Claus-clad donation collectors into the streets since the 1890s.";
+r_text[26] = "Construction workers started the Rockefeller Center Christmas tree tradition in 1931.";
+r_text[27] = "The first printed reference to Christmas trees appeared in Germany in 1531.";
+r_text[28] = "The biggest selling Christmas single of all time is Bing Crosby's White Christmas.";
+r_text[29] = "Santa's Reindeers are Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner and Blitzen. And the most famous of them all... Rudolph.";
+r_text[30] = "Christmas trees have been sold commercially in the United States since about 1850.";
+r_text[31] = "In 1979, the National Christmas Tree was not lighted except for the top ornament. This was done in honor of the American hostages in Iran.";
+r_text[32] = "Each year since 1966, the National Christmas Tree Association has given a Christmas tree to the President and first family.";
+r_text[33] = "President Coolidge started the National Christmas Tree Lighting Ceremony on the White House lawn in 1923.";
+r_text[34] = "Every year since 1947, the people of Oslo, Norway have given a Christmas tree to the city of Westminster, England.";
+r_text[35] = "In 1822 Clement C. Moore composed the poem A Visit From Saint Nicholas, published as The Night Before Christmas as a gift for his children.";
+r_text[36] = "Mistletoe was used by Druid priests 200 years before the birth of Christ in winter celebrations. They revered the plant because it had no roots yet remained green during the cold winter.";
+r_text[37] = "The world's tallest Christmas tree at 221ft high was erected in a Washington shopping mall in 1950.";
+r_text[38] = "In the United States, the official definition of a white Christmas is that there has to be a snow depth of at least 1 inch at 7:00 a.m. local time on Christmas morning.";
+r_text[39] = "Thomas Edison's assistant, Edward Johnson, came up with the idea of electric lights for Christmas trees in 1882.";
+var i = Math.floor(40*Math.random())
+
+document.write(r_text[i]);
+}
