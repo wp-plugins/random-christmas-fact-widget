@@ -2,7 +2,7 @@
 
 
 Contributors: monkeymays
-Donate Link: http://christmaswebmaster.com/random-christmas-fact-widget
+Donate Link: http://christmaswebmaster.com/random-christmas-fact-widget/
 Tags: Random Christmas Fact, santa claus, holiday, christmas, widget-only, widget, sidebar
 Requires at least: 3.0
 Tested up to: 4.0
